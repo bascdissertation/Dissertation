@@ -1,0 +1,1 @@
+The code in this folder comes from: https://github.com/ellie-as/sleep-continual-learning, the supervisor of my undergraduate dissertation, and has been slightly adapted for the purpose of the dissertation.
